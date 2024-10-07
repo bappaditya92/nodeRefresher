@@ -1,0 +1,22 @@
+{
+  "name": "noderefresher",
+  "version": "1.0.0",
+  "description": "This is the nodeJs refresher code",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Bappaditya Sinha <bappadityasinha.92@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,2 @@
+Inside the test file
+That is the append section
